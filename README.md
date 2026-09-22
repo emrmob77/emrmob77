@@ -1,4 +1,4 @@
-hi i'm emre.
+hi.
 
 i build stuff.
 
