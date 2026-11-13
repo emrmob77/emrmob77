@@ -2,7 +2,7 @@ hi.
 
 i build stuff.
 
-been here for <!--AGE-->2.002523724<!--/AGE--> years.
+been here for <!--AGE-->2.003174332<!--/AGE--> years.
 
 seo & growth guy. i build web apps, automate marketing and turn ideas into real things on the internet.
 
